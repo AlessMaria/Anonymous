@@ -1,0 +1,146 @@
+nav{
+    background-color:olive;
+    color: white;
+    padding: 10px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    align-items: center;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+footer{
+    background-color:olive;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.btnCart{
+    background-color: transparent;
+    border: none;
+}
+
+.carousel-item img {
+    max-height: 300px; /* o lo que quieras */
+    object-fit: cover;
+    margin: 0 auto; /* centra horizontalmente */
+    display: block;
+}
+
+.fa-cart-shopping{
+    color: red;
+}
+
+h1 {
+    text-align: center;
+}
+
+/*h3 {
+    text-align: center;
+}*/
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color:darkgray;
+}
+
+input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: darkgray;
+}
+
+input[type=email], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: darkgray;
+}
+
+input[type="checkbox"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    display: inline;
+    width: auto;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color:darkolivegreen;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+    
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+input[type=reset] {
+    width: 100%;
+    background-color: darkolivegreen;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+    
+input[type=reset]:hover {
+    background-color: #45a049;
+}
+    
+.form-container {
+    width: 60%; 
+    max-width: 400px; /* Ancho máximo del formulario */
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: olive;
+}
+
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    background-color: darkgray;
+}

@@ -1,0 +1,59 @@
+[
+    {
+    "id": 1,
+    "nombre": "Buzón",
+    "precio": 35999999,
+    "stock": 25,
+    "imagen": "https://i.postimg.cc/6QHMr2hj/buzon.jpg",
+    "categoría": "Item Premium"
+},
+{
+    "id": 2,
+    "nombre": "Biblioteca de Alejandría",
+    "precio": 7459000,
+    "stock": 6,
+    "imagen": "https://i.postimg.cc/yx3cSWfZ/biblio.jpg",
+    "categoría": "Monumento Histórico"  
+},
+{
+    "id": 3,
+    "nombre": "Esfinge",
+    "precio": 5000000,
+    "stock": 8,
+    "imagen": "https://i.postimg.cc/5NL1s1Tq/Esfinge.jpg",
+    "categoría": "Monumento Histórico" 
+},
+{
+    "id": 4,
+    "nombre": "Torre Eiffel",
+    "precio": 8248211,
+    "stock": 8,
+    "imagen": "https://i.postimg.cc/8zzKjmRJ/Torre.jpg",
+    "categoría": "Monumento Histórico" 
+},
+{
+    "id": 5,
+    "nombre": "Fontana di Trevi",
+    "precio": 9122888,
+    "stock": 8,
+    "imagen": "https://i.postimg.cc/vTvhm4Dt/trevi.jpg",
+    "categoría": "Monumento Histórico" 
+},
+{
+    "id": 6,
+    "nombre": "Jardines Colgantes de Babilonia",
+    "precio": 9521899,
+    "stock": 9,
+    "imagen": "https://i.postimg.cc/kGwNmLhj/Jardines.jpg",
+    "categoría": "Maravilla del Mundo" 
+},
+{
+    "id": 7,
+    "nombre": "Golden Gate",
+    "precio": 8999532,
+    "stock": 15,
+    "imagen": "https://i.postimg.cc/prdhDrqZ/goldengate.jpg",
+    "categoría": "Arquitectura Famosa" 
+}
+  ]
+  
